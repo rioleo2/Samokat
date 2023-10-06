@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: 
+    #f2f2f2;
+}
+
+.root-section {
+    padding: 0px 10px 10px 20px;
+    display: flex;
+}
+
+.aside-left-menu {
+    width: 236px;
+    display: flex;
+    flex-direction: column;
+    padding-right: 10px;
+}
+
+.logo {
+    padding: 25px 0 16px 16px;
+    background-color: 
+    white;
+    border-radius: 0 0 20px 20px;
+}
+
+.catalog-tree {
+    flex-direction: column;
+    padding: 25px 0 16px 16px;
+    background-color: 
+    white;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.catalog-tree-section-card {
+    padding-bottom: 20px;
+}
+
+.main-content {
+    padding-top: 10px;
+    margin-right: 10px;
+    width: 100%;
+    background-color: 
+    white;
+    display: flex;
+}
+
+.aside-right-menu {
+    width: 336px;
+    display: flex;
+    background-color: 
+    white;
+}
+
+
+
+
+
